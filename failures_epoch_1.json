@@ -1,0 +1,802 @@
+[
+  {
+    "image_id": 262148,
+    "question": "Where is he looking?",
+    "ground_truth": 110,
+    "prediction": 25,
+    "confidence": 0.02277170866727829,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262148,
+    "question": "What are the people in the background doing?",
+    "ground_truth": 496,
+    "prediction": 34,
+    "confidence": 0.029546504840254784,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393225,
+    "question": "Is this rice noodle soup?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6476805806159973,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393225,
+    "question": "What is to the right of the soup?",
+    "ground_truth": 860,
+    "prediction": 18,
+    "confidence": 0.018351735547184944,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393226,
+    "question": "What is the man doing in the street?",
+    "ground_truth": 91,
+    "prediction": 34,
+    "confidence": 0.03811271861195564,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393226,
+    "question": "What does the truck on the left sell?",
+    "ground_truth": 593,
+    "prediction": 26,
+    "confidence": 0.017334571108222008,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 240301,
+    "question": "Why is there a gap between the roof and wall?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.2023908793926239,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 240301,
+    "question": "Is it daylight in this picture?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5756508111953735,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 131089,
+    "question": "What color is the grass in this picture?",
+    "ground_truth": 11,
+    "prediction": 8,
+    "confidence": 0.17272095382213593,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 131089,
+    "question": "Did the batter hit the ball?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6232179403305054,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 131089,
+    "question": "Is the boy playing baseball?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6699963808059692,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "What color is the bedspread?",
+    "ground_truth": 4,
+    "prediction": 8,
+    "confidence": 0.18608592450618744,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "How many pictures are there?",
+    "ground_truth": 30,
+    "prediction": 3,
+    "confidence": 0.22904656827449799,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262162,
+    "question": "Are the windows big?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6117962598800659,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "What is the chair made of?",
+    "ground_truth": 377,
+    "prediction": 24,
+    "confidence": 0.02135377563536167,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "Is this room in someone's home?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6356995105743408,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "Which room is this?",
+    "ground_truth": 107,
+    "prediction": 25,
+    "confidence": 0.10336069017648697,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "Is the bed white?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5981341004371643,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "Is the bed made?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6011337637901306,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "What kind of room is this?",
+    "ground_truth": 107,
+    "prediction": 25,
+    "confidence": 0.15916870534420013,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "Has the bed been made?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5779094099998474,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "How many frames are on the wall?",
+    "ground_truth": 30,
+    "prediction": 3,
+    "confidence": 0.2258804440498352,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262162,
+    "question": "What color are the walls?",
+    "ground_truth": 4,
+    "prediction": 8,
+    "confidence": 0.18911117315292358,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "Could this be a multi-purpose room?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5721977353096008,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262162,
+    "question": "What animal print does that chair resemble?",
+    "ground_truth": 27,
+    "prediction": 8,
+    "confidence": 0.02090121991932392,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "What is behind the foot of the bed?",
+    "ground_truth": 124,
+    "prediction": 18,
+    "confidence": 0.02564561553299427,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262162,
+    "question": "How many pictures on the wall?",
+    "ground_truth": 30,
+    "prediction": 3,
+    "confidence": 0.22696204483509064,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 393243,
+    "question": "Will this kid leave the powdered sugar on his face?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5299670100212097,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393243,
+    "question": "What is the child eating?",
+    "ground_truth": 122,
+    "prediction": 20,
+    "confidence": 0.02711891010403633,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393243,
+    "question": "What color is the kids hair?",
+    "ground_truth": 160,
+    "prediction": 8,
+    "confidence": 0.20002052187919617,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262175,
+    "question": "Where was the picture taken of the man?",
+    "ground_truth": 724,
+    "prediction": 22,
+    "confidence": 0.01986353099346161,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262175,
+    "question": "What is the man wearing on his head?",
+    "ground_truth": 69,
+    "prediction": 34,
+    "confidence": 0.020623087882995605,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 131108,
+    "question": "Is there a drainage in the pic?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6005492806434631,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 42,
+    "question": "What color are the gym shoes?",
+    "ground_truth": 4,
+    "prediction": 8,
+    "confidence": 0.1714758723974228,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 42,
+    "question": "Is there a red sandal here?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5971036553382874,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 42,
+    "question": "What color is the flip flop?",
+    "ground_truth": 6,
+    "prediction": 8,
+    "confidence": 0.16988936066627502,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 131115,
+    "question": "Are there players in the dugout?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5597143173217773,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 131115,
+    "question": "How many people are on the field?",
+    "ground_truth": 5,
+    "prediction": 3,
+    "confidence": 0.22308649122714996,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262189,
+    "question": "How many signs?",
+    "ground_truth": 10,
+    "prediction": 2,
+    "confidence": 0.23230458796024323,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262189,
+    "question": "What color is the Salisbury Rd. sign?",
+    "ground_truth": 4,
+    "prediction": 8,
+    "confidence": 0.1535767763853073,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393266,
+    "question": "What color is the sign?",
+    "ground_truth": 486,
+    "prediction": 6,
+    "confidence": 0.15008345246315002,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393266,
+    "question": "What color is the plant?",
+    "ground_truth": 11,
+    "prediction": 8,
+    "confidence": 0.14971858263015747,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393267,
+    "question": "What color is the woman's shirt on the left?",
+    "ground_truth": 7,
+    "prediction": 8,
+    "confidence": 0.1751423329114914,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393267,
+    "question": "What type of beverage is being displayed?",
+    "ground_truth": 83,
+    "prediction": 6,
+    "confidence": 0.018765781074762344,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262197,
+    "question": "How many skyscrapers are there?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "confidence": 0.23548509180545807,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262197,
+    "question": "What is the color of the building in the background?",
+    "ground_truth": 12,
+    "prediction": 8,
+    "confidence": 0.15671612322330475,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262197,
+    "question": "Is there a tree in front of the building?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6095635890960693,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262197,
+    "question": "Are there lights on in the two buildings?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5881792902946472,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262197,
+    "question": "How many stories is the building on the left?",
+    "ground_truth": 5,
+    "prediction": 3,
+    "confidence": 0.2312355786561966,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262197,
+    "question": "Is this a hospital?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6493650078773499,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 262197,
+    "question": "How many umbrellas do you see?",
+    "ground_truth": 9,
+    "prediction": 3,
+    "confidence": 0.22787541151046753,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262197,
+    "question": "What is on the boy's back walking?",
+    "ground_truth": 295,
+    "prediction": 18,
+    "confidence": 0.017566626891493797,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262197,
+    "question": "How many modes of transportation are depicted?",
+    "ground_truth": 9,
+    "prediction": 3,
+    "confidence": 0.22930432856082916,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262197,
+    "question": "What color is the building?",
+    "ground_truth": 12,
+    "prediction": 8,
+    "confidence": 0.15850555896759033,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393271,
+    "question": "Is it still snowing in the picture?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.599518895149231,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393271,
+    "question": "Does this appear to be a photo of multiple exposures of the black clad snowboarder?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5842440724372864,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393271,
+    "question": "How many people can you see in the picture?",
+    "ground_truth": 31,
+    "prediction": 3,
+    "confidence": 0.2361157238483429,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 262200,
+    "question": "What is being celebrated?",
+    "ground_truth": 140,
+    "prediction": 20,
+    "confidence": 0.022600900381803513,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 262200,
+    "question": "Who is in front of the cake with candles?",
+    "ground_truth": 152,
+    "prediction": 25,
+    "confidence": 0.019854318350553513,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393274,
+    "question": "What is this vehicle?",
+    "ground_truth": 71,
+    "prediction": 32,
+    "confidence": 0.021133726462721825,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393274,
+    "question": "Is this train at the station?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6322794556617737,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393274,
+    "question": "What is cast?",
+    "ground_truth": 441,
+    "prediction": 20,
+    "confidence": 0.031274355947971344,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393274,
+    "question": "Is this station in a rural setting?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6127703785896301,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393274,
+    "question": "Are the train tracks clear?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5700386166572571,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 131131,
+    "question": "What type of cat is this?",
+    "ground_truth": 588,
+    "prediction": 7,
+    "confidence": 0.02185416780412197,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 131131,
+    "question": "What is written lg in the pic?",
+    "ground_truth": 162,
+    "prediction": 20,
+    "confidence": 0.013391397893428802,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 131131,
+    "question": "How many cats are in the image?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "confidence": 0.2245386838912964,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 393277,
+    "question": "What's the statue of?",
+    "ground_truth": 652,
+    "prediction": 34,
+    "confidence": 0.01625622995197773,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393277,
+    "question": "Is the building large?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6175274848937988,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393277,
+    "question": "How is the weather?",
+    "ground_truth": 115,
+    "prediction": 0,
+    "confidence": 0.02397558093070984,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393277,
+    "question": "What color is the building the background?",
+    "ground_truth": 15,
+    "prediction": 8,
+    "confidence": 0.18500781059265137,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393277,
+    "question": "Does it rain here a lot?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.5373870730400085,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393277,
+    "question": "Which famous landmark appears in the background?",
+    "ground_truth": 892,
+    "prediction": 22,
+    "confidence": 0.03910311684012413,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393277,
+    "question": "What color is the dome of the building off in the distance?",
+    "ground_truth": 6,
+    "prediction": 8,
+    "confidence": 0.19566945731639862,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393277,
+    "question": "What is in the tower?",
+    "ground_truth": 200,
+    "prediction": 18,
+    "confidence": 0.017042241990566254,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393282,
+    "question": "Is the giraffe a baby?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6327123641967773,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393282,
+    "question": "How many giraffes are there?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "confidence": 0.2354162037372589,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 393282,
+    "question": "How many giraffes can been seen?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "confidence": 0.22708207368850708,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 393282,
+    "question": "Why is there a white roofed open pavilion?",
+    "ground_truth": 608,
+    "prediction": 0,
+    "confidence": 0.2601962387561798,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393282,
+    "question": "What is in front of the giraffe?",
+    "ground_truth": 153,
+    "prediction": 18,
+    "confidence": 0.022893758490681648,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393282,
+    "question": "How many giraffe are pictured?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "confidence": 0.22719000279903412,
+    "answer_type": "number"
+  },
+  {
+    "image_id": 393282,
+    "question": "Where do these animals live?",
+    "ground_truth": 185,
+    "prediction": 22,
+    "confidence": 0.024175647646188736,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393282,
+    "question": "What are these animals?",
+    "ground_truth": 273,
+    "prediction": 26,
+    "confidence": 0.017005154862999916,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "What kind of object is the kid riding?",
+    "ground_truth": 156,
+    "prediction": 26,
+    "confidence": 0.01822967268526554,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "What is the this person doing?",
+    "ground_truth": 72,
+    "prediction": 34,
+    "confidence": 0.04731103405356407,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "What sport is the man doing?",
+    "ground_truth": 72,
+    "prediction": 20,
+    "confidence": 0.057557616382837296,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "Is this man snowboarding?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6730096936225891,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393284,
+    "question": "Is this man flying off of the ski slope?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6674367785453796,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393284,
+    "question": "What is the man doing?",
+    "ground_truth": 72,
+    "prediction": 34,
+    "confidence": 0.0453312024474144,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "Is he going to land?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6152539849281311,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393284,
+    "question": "What sport is the man participating in?",
+    "ground_truth": 72,
+    "prediction": 20,
+    "confidence": 0.05243997648358345,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393284,
+    "question": "Does the man have goggles on?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "confidence": 0.6042495369911194,
+    "answer_type": "yes/no"
+  },
+  {
+    "image_id": 393284,
+    "question": "What color is the man's jacket?",
+    "ground_truth": 6,
+    "prediction": 8,
+    "confidence": 0.1865367293357849,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393288,
+    "question": "What kind of building is this?",
+    "ground_truth": 368,
+    "prediction": 25,
+    "confidence": 0.022204885259270668,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393288,
+    "question": "What color is the dome shaped roof in the back?",
+    "ground_truth": 15,
+    "prediction": 8,
+    "confidence": 0.20021973550319672,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393288,
+    "question": "What color is the church?",
+    "ground_truth": 12,
+    "prediction": 8,
+    "confidence": 0.17259085178375244,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393288,
+    "question": "Where are the cars?",
+    "ground_truth": 149,
+    "prediction": 22,
+    "confidence": 0.02714945189654827,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 393288,
+    "question": "What is displayed under the triangular dome?",
+    "ground_truth": 371,
+    "prediction": 18,
+    "confidence": 0.019928263500332832,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 524361,
+    "question": "What color are the bird's feathers?",
+    "ground_truth": 15,
+    "prediction": 8,
+    "confidence": 0.14658506214618683,
+    "answer_type": "other"
+  },
+  {
+    "image_id": 74,
+    "question": "Where is the dog laying?",
+    "ground_truth": 221,
+    "prediction": 22,
+    "confidence": 0.028331024572253227,
+    "answer_type": "other"
+  }
+]

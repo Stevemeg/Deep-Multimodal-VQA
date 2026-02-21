@@ -149,7 +149,7 @@ multimodal-vqa/
 
 ---
 
-##  Why This Matters (For Recruiters)
+##  Why This Matters
 
 This project demonstrates:
 - **Multimodal AI** — combining vision and language transformers in a single learnable system
